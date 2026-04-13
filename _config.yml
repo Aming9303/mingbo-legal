@@ -1,0 +1,5 @@
+title: 牛宝宝和蛋炒饭
+description: 一款专为情侣微商打造的双人协作工具
+theme: jekyll-theme-cayman
+markdown: kramdown
+permalink: /:title
